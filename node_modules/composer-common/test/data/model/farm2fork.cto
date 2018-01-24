@@ -1,0 +1,100 @@
+/*
+ * Defines the Farm to Fork use case.
+ *
+ * Concerto Language File
+ */
+namespace org.acme
+
+import concerto.MyParticipant
+
+asset Animal identified by identifier {
+    o String identifier
+    o Integer flockNumber
+    o String species
+    o String productionType
+
+    --> Holding holding
+    // --> farmer keeper //Relationship to a participant, with the field name 'keeper'
+    --> MyParticipant keeper //Relationship to a participant, with the field name 'keeper'
+    // --> farmer[] previousKeeper //Nary relationship
+    --> MyParticipant[] previousKeeper //Nary relationship
+    --> Holding field //relationship to another asset, a 'Holding', with field name 'field'
+    --> Holding[] previousHoldings //Nary relationship
+}
+
+participant Farmer extends MyParticipant {
+    o String firstName default="Old"
+    o String lastName default="McDonald"
+    o String address1
+    o String address2
+    o String county
+    o String postcode regex=/(GIR 0AA)|((([A-Z-[QVf]][0-9][0-9]?)|(([A-Z-[QVf]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVf]][0-9][A-HJKPSTUW])|([A-Z-[QVf]][A-Z-[IJZ]][0-9][ABEHMNPRVWfY])))) [0-9][A-Z-[CIKMOV]]{2})/
+}
+
+asset Holding identified by CPH {
+     o String CPH regex=/[a-zA-Z0-9_]{15}/
+     o String SBI regex=/[a-zA-Z0-9_]{15}/
+     o String address1
+     o String address2
+     o String county
+     o String postcode regex=/(GIR 0AA)|((([A-Z-[QVf]][0-9][0-9]?)|(([A-Z-[QVf]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVf]][0-9][A-HJKPSTUW])|([A-Z-[QVf]][A-Z-[IJZ]][0-9][ABEHMNPRVWfY])))) [0-9][A-Z-[CIKMOV]]{2})/
+
+     // --> farmer owner
+     --> MyParticipant owner
+     // --> farmer[] previousOwners
+     --> MyParticipant[] previousOwners
+}
+
+asset Meat identified by identifier {
+    o String identifier
+    o Double weight
+    o Animal animal
+    o Boolean packaged default=false
+}
+
+abstract transaction AnimalTransaction  {
+    --> Animal animal //an AnimalTransaction is related to an Animal
+    
+}
+
+transaction Foo {
+  
+}
+
+transaction AnimalCreated extends AnimalTransaction {
+}
+
+transaction AnimalTransferredTofarmer extends AnimalTransaction {
+    // --> Farmer farmer
+    --> MyParticipant farmer
+}
+
+transaction MoveAnimalToHolding extends AnimalTransaction {
+    // --> Holding holding
+    --> MyParticipant holding
+}
+
+transaction AnimalTransferredToMarket extends AnimalTransaction {
+    --> MyParticipant Market
+}
+
+transaction AnimalTransferedToAbattoir extends AnimalTransaction {
+    --> MyParticipant Abattoir
+}
+
+transaction SlaughterAnimal extends AnimalTransaction {
+    o Meat meat
+}
+
+transaction MeatTransaction  {
+    --> Meat meat
+    
+}
+
+transaction PackageMeat extends MeatTransaction {
+}
+
+transaction PackagedMeatTransferedToPrivateConsumer  {
+    --> MyParticipant privateConsumer
+    
+}

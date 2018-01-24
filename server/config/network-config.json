@@ -1,0 +1,52 @@
+
+{
+	"network-config": {
+		"orderer": {
+			"url": "grpcs://120.77.243.233:7050",
+			"server-hostname": "orderer.example.com",
+			"tls_cacerts": "../artifacts/channel/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
+		},
+		"org1": {
+			"name": "peerOrg1",
+			"mspid": "Org1MSP",
+			"ca": "https://120.77.243.233:7054",
+			"peer1": {
+				"requests": "grpcs://120.77.243.233:7051",
+				"events": "grpcs://120.77.243.233:7053",
+				"server-hostname": "peer0.org1.example.com",
+				"tls_cacerts": "../artifacts/channel/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
+			},
+			"peer2": {
+				"requests": "grpcs://120.77.243.233:7056",
+				"events": "grpcs://120.77.243.233:7058",
+				"server-hostname": "peer1.org1.example.com",
+				"tls_cacerts": "../artifacts/channel/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt"
+			},
+			"admin": {
+				"key": "../artifacts/channel/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
+				"cert": "../artifacts/channel/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
+			}
+		},
+		"org2": {
+			"name": "peerOrg2",
+			"mspid": "Org2MSP",
+			"ca": "https://119.23.109.182:8054",
+			"peer1": {
+				"requests": "grpcs://119.23.109.182:8051",
+				"events": "grpcs://119.23.109.182:8053",
+				"server-hostname": "peer0.org2.example.com",
+				"tls_cacerts": "../artifacts/channel/crypto-config/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt"
+			},
+			"peer2": {
+				"requests": "grpcs://119.23.109.182:8056",
+				"events": "grpcs://119.23.109.182:8058",
+				"server-hostname": "peer1.org2.example.com",
+				"tls_cacerts": "../artifacts/channel/crypto-config/peerOrganizations/org2.example.com/peers/peer1.org2.example.com/tls/ca.crt"
+			},
+			"admin": {
+				"key": "../artifacts/channel/crypto-config/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/keystore",
+				"cert": "../artifacts/channel/crypto-config/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/signcerts"
+			}
+		}
+	}
+}

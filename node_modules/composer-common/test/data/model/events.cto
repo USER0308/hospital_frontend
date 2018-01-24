@@ -1,0 +1,25 @@
+/*
+ * Test file for events
+ */
+namespace org.acme
+
+/**
+ * Abstract event
+ */
+abstract event AbstractEvent {
+  o String test
+}
+
+/**
+ * Concrete event
+ */
+event ConcreteEvent  {
+  o String test
+}
+
+/**
+ * DerivedEvent
+ */
+event DerivedEvent extends AbstractEvent {
+  o String anotherProperty
+}

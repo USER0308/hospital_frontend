@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38782bc8-f65e-48d3-adfa-9a541d46e215" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/hospital.js" afterPath="$PROJECT_DIR$/server/controllers/hospital.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/patientQuery.js" afterPath="$PROJECT_DIR$/server/controllers/patientQuery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/hospital/Hospital.vue" afterPath="$PROJECT_DIR$/src/components/hospital/Hospital.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/hospital/InformationDialog.vue" afterPath="$PROJECT_DIR$/src/components/hospital/InformationDialog.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/hospital/Receive.vue" afterPath="$PROJECT_DIR$/src/components/hospital/Receive.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/hospital/ReferralPorfile.vue" afterPath="$PROJECT_DIR$/src/components/hospital/ReferralPorfile.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/hospital/Send.vue" afterPath="$PROJECT_DIR$/src/components/hospital/Send.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/login/Login.vue" afterPath="$PROJECT_DIR$/src/components/login/Login.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/router/index.js" afterPath="$PROJECT_DIR$/src/router/index.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="-demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Receive.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/Receive.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-846">
+              <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InformationDialog.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/InformationDialog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="359" column="11" lean-forward="true" selection-start-line="359" selection-start-column="11" selection-end-line="359" selection-end-column="11" />
+              <folding>
+                <element signature="n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Case.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/Case.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1404">
+              <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperationNav.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/OperationNav.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferralPorfile.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/ReferralPorfile.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="717">
+              <caret line="477" column="0" lean-forward="true" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+              <folding>
+                <element signature="e#10760#12503#0" expanded="false" />
+                <element signature="e#12514#14059#0" expanded="false" />
+                <element signature="e#14070#15720#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hospital.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/Hospital.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Send.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hospital/Send.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1129">
+              <caret line="72" column="12" lean-forward="true" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+              <folding>
+                <element signature="e#3594#3796#0" expanded="false" />
+                <element signature="e#3999#4201#0" expanded="false" />
+                <element signature="e#4231#4432#0" expanded="false" />
+                <element signature="e#4635#4836#0" expanded="false" />
+                <element signature="e#4867#5107#0" expanded="false" />
+                <element signature="e#5108#5350#0" expanded="false" />
+                <element signature="e#5351#5592#0" expanded="false" />
+                <element signature="e#5611#5638#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>v-on</find>
+      <find>age-wrapper</find>
+      <find>index</find>
+      <find>offset</find>
+      <find>WebSocketServer was attached.</find>
+      <find>console.log</find>
+      <find>doctor</find>
+      <find>get</find>
+      <find>myss</find>
+      <find>tableData</find>
+      <find>this.tableData</find>
+      <find>this._data.tableData</find>
+      <find>update_time</find>
+      <find>dialogVisible</find>
+      <find>table</find>
+      <find>:model</find>
+      <find>ws</find>
+      <find>closeTxS</find>
+      <find>未处理</find>
+      <find>tmpPatient</find>
+      <find>localhost</find>
+      <find>api/referrals</find>
+      <find>referral info</find>
+      <find>state</find>
+      <find>this.$message.error</find>
+      <find>receive a</find>
+      <find>待处理</find>
+      <find>hospital01</find>
+      <find>hospital0</find>
+      <find>华工</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/dev" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="lxj" repo="$PROJECT_DIR$" source="master" />
+      <push-target-info target-remote="origin" target-branch="dev" repo="$PROJECT_DIR$" source="tmp" />
+      <push-target-info target-remote="origin" target-branch="hospital01" repo="$PROJECT_DIR$" source="work" />
+    </push-targets>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/Login.vue" />
+        <option value="$PROJECT_DIR$/src/components/Ws.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/developer/Developer.vue" />
+        <option value="$PROJECT_DIR$/src/components/Ws.vue" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/doctor/Timeline.vue" />
+        <option value="$PROJECT_DIR$/src/components/admin/Admin.vue" />
+        <option value="$PROJECT_DIR$/src/components/admin/referral/Referral.vue" />
+        <option value="$PROJECT_DIR$/server/controllers/ws.js" />
+        <option value="$PROJECT_DIR$/src/components/doctor/doctor.vue" />
+        <option value="$PROJECT_DIR$/src/components/admin/referral/CaseList.vue" />
+        <option value="$PROJECT_DIR$/server/models/websocket.js" />
+        <option value="$PROJECT_DIR$/server/models/hospital.js" />
+        <option value="$PROJECT_DIR$/src/components/doctor/editCase.vue" />
+        <option value="$PROJECT_DIR$/koa.js" />
+        <option value="$PROJECT_DIR$/src/components/hospital/NewCase.vue" />
+        <option value="$PROJECT_DIR$/src/components/TitleNav.vue" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/VerticalNav.vue" />
+        <option value="$PROJECT_DIR$/src/components/hospital/OperationNav.vue" />
+        <option value="$PROJECT_DIR$/server/controllers/adminSign.js" />
+        <option value="$PROJECT_DIR$/src/components/restful/data.json" />
+        <option value="$PROJECT_DIR$/src/components/hospital/Case.vue" />
+        <option value="$PROJECT_DIR$/src/components/processDemo/ProcessDemo.vue" />
+        <option value="$PROJECT_DIR$/server/config/network-configback.json" />
+        <option value="$PROJECT_DIR$/server/config/config.json" />
+        <option value="$PROJECT_DIR$/server/config/network-config.json" />
+        <option value="$PROJECT_DIR$/server/routes/front.js" />
+        <option value="$PROJECT_DIR$/server/controllers/referralQuery.js" />
+        <option value="$PROJECT_DIR$/server/models/referral.js" />
+        <option value="$PROJECT_DIR$/server/controllers/hospital.js" />
+        <option value="$PROJECT_DIR$/server/routes/api.js" />
+        <option value="$PROJECT_DIR$/server/controllers/patientQuery.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/components/login/Login.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/components/hospital/Hospital.vue" />
+        <option value="$PROJECT_DIR$/src/components/hospital/Send.vue" />
+        <option value="$PROJECT_DIR$/src/components/hospital/Receive.vue" />
+        <option value="$PROJECT_DIR$/src/components/hospital/InformationDialog.vue" />
+        <option value="$PROJECT_DIR$/src/components/hospital/ReferralPorfile.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="24" />
+    <option name="width" value="1845" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="-demo (copy)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-demo (copy)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-demo (copy)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-demo (copy)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-demo (copy)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-demo (copy)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-demo (copy)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-demo (copy)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="hospital" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="GO_FMT" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/hospital" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.koa">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="koa" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="koa.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="my_vue" type="NodeJSConfigurationType" factoryName="Node.js" singleton="false" path-to-node="project" path-to-js-file="build/dev-server.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.my_vue" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.koa" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38782bc8-f65e-48d3-adfa-9a541d46e215" name="Default" comment="" />
+      <created>1503369320358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503369320358</updated>
+      <workItem from="1503369322811" duration="7393000" />
+      <workItem from="1503451189860" duration="4059000" />
+      <workItem from="1503456651749" duration="16826000" />
+      <workItem from="1503564594380" duration="27000" />
+      <workItem from="1503710440393" duration="4534000" />
+      <workItem from="1503882625845" duration="14932000" />
+      <workItem from="1503976129490" duration="769000" />
+      <workItem from="1503991462576" duration="3567000" />
+      <workItem from="1504055019921" duration="596000" />
+      <workItem from="1504755024953" duration="1371000" />
+      <workItem from="1505212767421" duration="4355000" />
+      <workItem from="1505293438647" duration="4532000" />
+      <workItem from="1505703619436" duration="4805000" />
+      <workItem from="1505898609569" duration="14531000" />
+      <workItem from="1506215909560" duration="9547000" />
+      <workItem from="1506310194423" duration="14734000" />
+      <workItem from="1506427371942" duration="5949000" />
+      <workItem from="1506509915104" duration="8089000" />
+      <workItem from="1506647294357" duration="16071000" />
+      <workItem from="1506684071672" duration="10036000" />
+      <workItem from="1506749638738" duration="5181000" />
+      <workItem from="1506755579533" duration="182000" />
+      <workItem from="1506755861405" duration="2957000" />
+      <workItem from="1506924846347" duration="1186000" />
+      <workItem from="1507126559171" duration="8089000" />
+      <workItem from="1507257752327" duration="5128000" />
+      <workItem from="1507471344492" duration="1807000" />
+      <workItem from="1507516308491" duration="1641000" />
+      <workItem from="1507545808373" duration="7378000" />
+      <workItem from="1507726813522" duration="3728000" />
+      <workItem from="1507962571031" duration="13522000" />
+      <workItem from="1508031224789" duration="7945000" />
+      <workItem from="1508057031357" duration="2945000" />
+      <workItem from="1508121679959" duration="1095000" />
+      <workItem from="1508124958217" duration="39000" />
+      <workItem from="1508156826242" duration="3000" />
+      <workItem from="1508242866236" duration="5000" />
+      <workItem from="1508571015278" duration="322000" />
+      <workItem from="1508680675205" duration="7083000" />
+      <workItem from="1508728632848" duration="996000" />
+      <workItem from="1508917962455" duration="1930000" />
+      <workItem from="1509099204752" duration="726000" />
+      <workItem from="1509158393852" duration="10243000" />
+      <workItem from="1509280231516" duration="27124000" />
+      <workItem from="1509539567766" duration="4003000" />
+      <workItem from="1509597749762" duration="2638000" />
+      <workItem from="1509788035004" duration="2029000" />
+      <workItem from="1509799067740" duration="14381000" />
+      <workItem from="1509895171767" duration="1426000" />
+      <workItem from="1509930647155" duration="7310000" />
+      <workItem from="1509939181096" duration="2038000" />
+      <workItem from="1509970007422" duration="6000" />
+      <workItem from="1510364349961" duration="12281000" />
+      <workItem from="1510391187781" duration="9912000" />
+      <workItem from="1510458717577" duration="17940000" />
+      <workItem from="1510491745920" duration="4264000" />
+      <workItem from="1510501616361" duration="275000" />
+      <workItem from="1510536196761" duration="3629000" />
+      <workItem from="1516794028939" duration="3880000" />
+    </task>
+    <task id="LOCAL-00001" summary="add doctor;click edit and pop a dialog to show the info">
+      <created>1503487783131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503487783131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="websocket">
+      <created>1505984017783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505984017783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="websocket server send2client">
+      <created>1506238817858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506238817858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="xj 和 zf 前后端代码合并,后端A to 后端B待测试">
+      <created>1506758788245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506758788245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="front end">
+      <created>1507259510535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507259510535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="front end: finish table background-color, pop patient info. todo: show case info">
+      <created>1508038614866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508038614866</updated>
+    </task>
+    <task id="LOCAL-00007" summary="front end: finish table background-color, pop patient info. todo: show case info">
+      <created>1508059310776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1508059310776</updated>
+    </task>
+    <task id="LOCAL-00008" summary="front end: finish table background-color, pop patient info. todo: show case info">
+      <created>1508059963381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508059963381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add title">
+      <created>1508571110689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508571110689</updated>
+    </task>
+    <task id="LOCAL-00010" summary="对齐 input,组件间传数据">
+      <created>1508687741454</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1508687741454</updated>
+    </task>
+    <task id="LOCAL-00011" summary="对齐 input,组件间传数据">
+      <created>1508729456972</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508729456972</updated>
+    </task>
+    <task id="LOCAL-00012" summary="真实数据">
+      <created>1509162325633</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509162325633</updated>
+    </task>
+    <task id="LOCAL-00013" summary="向后端发送请求">
+      <created>1509321872543</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1509321872543</updated>
+    </task>
+    <task id="LOCAL-00014" summary="根据接口完成前端cases功能,修复接收到病人时没在receive的undealTableData中">
+      <created>1509542917400</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509542917400</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge branch 'lzf' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/ReferralPorfile.vue">
+      <created>1509543674688</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1509543674688</updated>
+    </task>
+    <task id="LOCAL-00016" summary="整合gr和zf的代码,转诊病人时动画消失才转,从未处理表格移动到待处理">
+      <created>1509789459701</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1509789459701</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge branch 'hpc' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/Send.vue">
+      <created>1509799558628</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1509799558628</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge branch 'hpc' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/Send.vue">
+      <created>1509850526551</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1509850526551</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge branch 'hpc' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/Send.vue">
+      <created>1509867625259</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1509867625259</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge branch 'hpc' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/Send.vue">
+      <created>1509940777943</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1509940777943</updated>
+    </task>
+    <task id="LOCAL-00021" summary="receive api">
+      <created>1510385803555</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1510385803555</updated>
+    </task>
+    <task id="LOCAL-00022" summary="receive api">
+      <created>1510386013164</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1510386013164</updated>
+    </task>
+    <task id="LOCAL-00023" summary="receive api">
+      <created>1510386915170</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1510386915170</updated>
+    </task>
+    <task id="LOCAL-00024" summary="merge lzf">
+      <created>1510402550738</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1510402550738</updated>
+    </task>
+    <task id="LOCAL-00025" summary="stage">
+      <created>1510403858746</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1510403858746</updated>
+    </task>
+    <task id="LOCAL-00026" summary="暂存">
+      <created>1510405539898</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1510405539898</updated>
+    </task>
+    <task id="LOCAL-00027" summary="前端ok">
+      <created>1510475265680</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1510475265680</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge branch 'gr' of https://github.com/SCUTIBMblockchain/-demo into work&#10;&#10;# Conflicts:&#10;#&#9;server/controllers/referralQuery.js">
+      <created>1510478085309</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1510478085309</updated>
+    </task>
+    <task id="LOCAL-00029" summary="finifh front end">
+      <created>1510482253888</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1510482253888</updated>
+    </task>
+    <task id="LOCAL-00030" summary="finifh front end">
+      <created>1510492461776</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1510492461776</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add invoke">
+      <created>1510493331524</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1510493331524</updated>
+    </task>
+    <task id="LOCAL-00032" summary="hospital01">
+      <created>1510496164857</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1510496164857</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="345243000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="24" width="1845" height="1023" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1904219" sideWeight="0.51298356" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6745006" sideWeight="0.48701644" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5652174" sideWeight="0.4907489" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980412" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22483222" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2479155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986765" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980412" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3983549" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13160987" sideWeight="0.49814716" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17740232" sideWeight="0.50208336" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20614035" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1995614" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26695842" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24669138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986765" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980412" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/lxj" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/hpc" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/dev" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/lxj" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add doctor;click edit and pop a dialog to show the info" />
+    <MESSAGE value="websocket" />
+    <MESSAGE value="websocket server send2client" />
+    <MESSAGE value="xj 和 zf 前后端代码合并,后端A to 后端B待测试" />
+    <MESSAGE value="front end" />
+    <MESSAGE value="front end: finish table background-color, pop patient info. todo: show case info" />
+    <MESSAGE value="add title" />
+    <MESSAGE value="对齐 input,组件间传数据" />
+    <MESSAGE value="真实数据" />
+    <MESSAGE value="向后端发送请求" />
+    <MESSAGE value="根据接口完成前端cases功能,修复接收到病人时没在receive的undealTableData中" />
+    <MESSAGE value="Merge branch 'lzf' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/ReferralPorfile.vue" />
+    <MESSAGE value="整合gr和zf的代码,转诊病人时动画消失才转,从未处理表格移动到待处理" />
+    <MESSAGE value="Merge branch 'hpc' of https://github.com/SCUTIBMblockchain/-demo&#10;&#10;# Conflicts:&#10;#&#9;src/components/hospital/Send.vue" />
+    <MESSAGE value="receive api" />
+    <MESSAGE value="merge lzf" />
+    <MESSAGE value="stage" />
+    <MESSAGE value="暂存" />
+    <MESSAGE value="前端ok" />
+    <MESSAGE value="Merge branch 'gr' of https://github.com/SCUTIBMblockchain/-demo into work&#10;&#10;# Conflicts:&#10;#&#9;server/controllers/referralQuery.js" />
+    <MESSAGE value="finifh front end" />
+    <MESSAGE value="add invoke" />
+    <MESSAGE value="hospital01" />
+    <option name="LAST_COMMIT_MESSAGE" value="hospital01" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server/controllers/patientQuery.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/models/hospital.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ws/lib/WebSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7436">
+          <caret line="342" column="74" lean-forward="false" selection-start-line="342" selection-start-column="74" selection-end-line="342" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/websocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/doctor/editCase.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/doctor.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/Timeline.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/Nav.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/VerticalNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/editCase.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/TitleNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/NewCase.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/developer/Developer.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/admin/Admin.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/admin/referral/Referral.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/admin/referral/CaseList.vue" />
+    <entry file="file://$PROJECT_DIR$/server/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/ws.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/doctorSign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/restful/data.json" />
+    <entry file="file://$PROJECT_DIR$/server/config/network-configSERVER.json" />
+    <entry file="file://$PROJECT_DIR$/server/models/query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/instantiateChaincode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/network-configback.json" />
+    <entry file="file://$PROJECT_DIR$/server/controllers/adminSign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/network.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/front.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/processDemo/ProcessDemo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="369" column="20" lean-forward="false" selection-start-line="369" selection-start-column="8" selection-end-line="369" selection-end-column="20" />
+          <folding>
+            <marker date="1510407163856" expanded="true" signature="19595:19609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/network-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <marker date="1510407355915" expanded="true" signature="0:2179" ph="{...}" />
+            <marker date="1510407355915" expanded="true" signature="1705:1897" ph="{&quot;requests&quot;: &quot;grpcs://localhost:8056&quot;...}" />
+            <marker date="1510407355915" expanded="true" signature="1705:2174" ph="{&quot;name&quot;: &quot;peerOrg2&quot;...}" />
+            <marker date="1510407355915" expanded="true" signature="1705:2177" ph="{...}" />
+            <marker date="1510407355915" expanded="true" signature="1911:2170" ph="{&quot;key&quot;: &quot;../artifacts/channel/crypto-config/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/keystore&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/referralQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="105" column="27" lean-forward="false" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
+          <folding>
+            <marker date="1510491995359" expanded="true" signature="10709:10802" ph="{&quot;getSendReferrals&quot;: getSendReferrals...}" />
+            <marker date="1510491995359" expanded="true" signature="10800:10802" ph="{&quot;getSendReferrals&quot;: getSendReferrals...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/referral.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/hospital.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="78" lean-forward="false" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/patientQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="201" column="1" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/patient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/Hospital.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/Send.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="72" column="12" lean-forward="true" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+          <folding>
+            <element signature="e#3594#3796#0" expanded="false" />
+            <element signature="e#3999#4201#0" expanded="false" />
+            <element signature="e#4231#4432#0" expanded="false" />
+            <element signature="e#4635#4836#0" expanded="false" />
+            <element signature="e#4867#5107#0" expanded="false" />
+            <element signature="e#5108#5350#0" expanded="false" />
+            <element signature="e#5351#5592#0" expanded="false" />
+            <element signature="e#5611#5638#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/Receive.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-846">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/Case.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/OperationNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/InformationDialog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="359" column="11" lean-forward="true" selection-start-line="359" selection-start-column="11" selection-end-line="359" selection-end-column="11" />
+          <folding>
+            <element signature="n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hospital/ReferralPorfile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="477" column="0" lean-forward="true" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <element signature="e#10760#12503#0" expanded="false" />
+            <element signature="e#12514#14059#0" expanded="false" />
+            <element signature="e#14070#15720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

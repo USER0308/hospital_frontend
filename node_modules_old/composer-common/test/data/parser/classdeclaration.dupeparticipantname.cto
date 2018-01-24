@@ -1,0 +1,11 @@
+namespace com.testing
+
+participant MyParticipant identified by participantKey {
+  o String participantKey
+  o String newValue
+}
+
+participant MyParticipant identified by participantKey {
+  o String participantKey
+  o String newValue
+}

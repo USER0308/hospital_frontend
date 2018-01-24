@@ -1,0 +1,9 @@
+namespace org.acme.core
+
+participant BaseMember identified by id {
+    o String id
+}
+
+transaction BaseTransaction  {
+  --> BaseMember invoker
+}

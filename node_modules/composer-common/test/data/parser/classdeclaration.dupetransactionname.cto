@@ -1,0 +1,11 @@
+namespace com.testing
+
+transaction AssetTransaction {
+  o String id
+  o String newValue
+}
+
+transaction AssetTransaction {
+  o String id
+  o String newValue
+}

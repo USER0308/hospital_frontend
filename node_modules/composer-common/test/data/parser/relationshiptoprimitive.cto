@@ -1,0 +1,6 @@
+namespace com.ibm.testing
+
+transaction ContainsBadRelationship  {
+    
+    --> String bad
+}
