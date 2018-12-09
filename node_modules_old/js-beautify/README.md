@@ -29,9 +29,9 @@ To pull from one of these services include one set of the script tags below in y
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.6.14/beautify-css.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.6.14/beautify-html.min.js"></script>
 
-<script src="https://cdn.rawgit.com/beautify-web/js-beautify/v1.6.14/js/lib/beautify.js"></script>
-<script src="https://cdn.rawgit.com/beautify-web/js-beautify/v1.6.14/js/lib/beautify-css.js"></script>
-<script src="https://cdn.rawgit.com/beautify-web/js-beautify/v1.6.14/js/lib/beautify-html.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/beautify-web/js-beautify@v1.6.14/js/lib/beautify.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/beautify-web/js-beautify@v1.6.14/js/lib/beautify-css.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/beautify-web/js-beautify@v1.6.14/js/lib/beautify-html.js"></script>
 ```
 Disclaimer: These are free services, so there are [no uptime or support guarantees](https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions#i-need-guaranteed-100-uptime-should-i-use-cdnrawgitcom).
 

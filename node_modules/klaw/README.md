@@ -8,7 +8,7 @@ A Node.js file system walker extracted from [fs-extra](https://github.com/jprich
 [![windows build status](https://ci.appveyor.com/api/projects/status/github/jprichardson/node-klaw?branch=master&svg=true)](https://ci.appveyor.com/project/jprichardson/node-klaw/branch/master)
 
 <!-- [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) -->
-<a href="http://standardjs.com"><img src="https://cdn.rawgit.com/feross/standard/master/sticker.svg" alt="Standard" width="100"></a>
+<a href="http://standardjs.com"><img src="https://cdn.jsdelivr.net/gh/feross/standard@master/sticker.svg" alt="Standard" width="100"></a>
 
 Install
 -------

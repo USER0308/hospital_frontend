@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img width="360" src="https://rawgit.com/ben-eb/cssnano/master/media/logo.svg" alt="cssnano">
+    <img width="360" src="https://cdn.jsdelivr.net/gh/ben-eb/cssnano@master/media/logo.svg" alt="cssnano">
     <br>
     <br>
     <br>
