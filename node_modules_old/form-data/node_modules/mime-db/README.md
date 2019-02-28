@@ -24,7 +24,7 @@ If you're crazy enough to use this in the browser,
 you can just grab the JSON file:
 
 ```
-https://cdn.rawgit.com/jshttp/mime-db/master/db.json
+https://cdn.jsdelivr.net/gh/jshttp/mime-db@master/db.json
 ```
 
 ## Usage
